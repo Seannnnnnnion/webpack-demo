@@ -1,0 +1,21 @@
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/index.css ***!
+  \*****************************************************************/
+#num{
+    width: 400px;
+    height: 200px;
+    /* border-radius: 10%; */
+    background-image:url(6df6bb3e821531dc8574.jpg);
+    color: white;
+    text-align:center;  
+    font-size: 18px;
+    border: 0px;
+}
+#btn{
+    width: 60px;
+    height: 30px;
+    border-radius: 4px;
+}
+
+
+/*# sourceMappingURL=main.1152cf700fd7ec38e79a.css.map*/
